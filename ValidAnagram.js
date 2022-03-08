@@ -13,4 +13,4 @@ const validAna = (strOne, strTwo) => {
     map[strTwo[i]]--;
   }
   return true;
-}
+};
